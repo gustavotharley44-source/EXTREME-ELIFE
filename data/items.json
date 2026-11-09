@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "id": "agua", "nome": "Água", "preco": 3, "efeito": { "sede": 30 } },
+    { "id": "sanduiche", "nome": "Sanduíche", "preco": 8, "efeito": { "fome": 35 } }
+  ]
+}
